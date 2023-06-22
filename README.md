@@ -1,4 +1,1 @@
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
-# Calendar-practice
+## this is a practice program only designed to improve my personal skills in React using hooks
